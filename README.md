@@ -36,27 +36,9 @@ Here are the technologies I work with:
 
 ---
 
-## 🛠️ **Projects**
-Here are some of the projects I’ve worked on:
-
-1. **[BI Infusid CRM Project](https://github.com/your-crm-project-link)**  
-   - Description: A robust customer relationship management system.  
-   - **Tech Used**: Angular, .NET, Bootstrap.
-
-2. **[Portfolio Website](https://your-portfolio-link)**  
-   - Description: A personal portfolio showcasing my skills and projects.  
-   - **Tech Used**: HTML5, CSS3, JavaScript.
-
-3. **[ITI Diploma Projects](https://github.com/your-iti-projects-link)**  
-   - Description: Projects developed as part of the ITI Web Development Diploma.  
-   - **Tech Used**: Angular, React, TypeScript, PHP.
-
----
-
 ## 🌍 **Connect with Me**
 Feel free to reach out and connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-critical?style=flat&logo=react&logoColor=white)](https://your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehad-ashraf/)  
 
 ---
 
