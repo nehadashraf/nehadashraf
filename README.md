@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Nehad Ashraf!  
-## ✨ **Fun Animation**
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9C%A8+build+web+applications;Always+learning+%F0%9F%93%96" alt="Typing SVG" />
 
 ---
