@@ -29,13 +29,6 @@ Here are the technologies I work with:
 
 ---
 
-## 📊 **GitHub Stats**
-
-[![Nehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/your-github-username)
-
----
-
 ## 🌍 **Connect with Me**
 Feel free to reach out and connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehad-ashraf/)  
