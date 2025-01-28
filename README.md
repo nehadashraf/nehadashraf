@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Nehad Ashraf!  
+## ✨ **Fun Animation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9C%A8+build+web+applications;Always+learning+%F0%9F%93%96" alt="Typing SVG" />
+
+---
 
 🎓 **Full-Stack Developer** specializing in **Angular** and **.NET** with over **3 years of experience** learning front-end development. I'm passionate about creating dynamic, user-friendly web applications with clean, maintainable code.  
 
@@ -28,11 +32,6 @@ Here are the technologies I work with:
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-## ✨ **Fun Animation**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Welcome+to+my+GitHub+profile!;I+%E2%9C%A8+build+web+applications;Always+learning+%F0%9F%93%96" alt="Typing SVG" />
 
 ---
 
