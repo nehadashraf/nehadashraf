@@ -7,7 +7,7 @@
 
 🎓 I graduated from **Computer Science** and am currently pursuing a **9-month ITI Diploma (Scholarship)** in **Web Development**.  
 
-🌱 **Currently learning**: Advanced .NET, Angular best practices, and React for modern web development.
+**Currently learning**: Advanced .NET, Angular best practices, and React for modern web development.
 
 ---
 
