@@ -65,6 +65,3 @@
   </a>
 </div>
 
----
-
-⚡ **Fun fact:** I love solving coding challenges and contributing to open-source projects in my free time!
