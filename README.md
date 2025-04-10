@@ -4,39 +4,97 @@
 ---
 
 🎓 **Full-Stack Developer** specializing in **Angular** and **.NET** with over **3 years of experience** learning front-end development. I'm passionate about creating dynamic, user-friendly web applications with clean, maintainable code.  
-
 🎓 I graduated from **Computer Science** and am currently pursuing a **9-month ITI Diploma (Scholarship)** in **Web Development**.  
-
 **Currently learning**: Advanced .NET, Angular best practices, and React for modern web development.
 
 ---
 
-## 🚀 **Skills**
-Here are the technologies I work with:
+## 🛠️ Tech Stack
 
-### 🖌️ **Front-End**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### Frontend Technologies
+<div>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="ES6+">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design">
+</div>
 
-### 🛠️ **Back-End**
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+### Backend Technologies
+<div>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET MVC">
+  <img src="https://img.shields.io/badge/ASP.NET_Web_API-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Web API">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="LINQ">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</div>
 
-### 💾 **Other Skills**
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+### Programming Languages & Tools
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" alt="OOP">
+  <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MVC">
+</div>
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+</div>
+
+## 🔥 Featured Projects
+
+### E-Commerce Platform
+Full-featured online store built with ASP.NET Core backend and Angular frontend. Includes user authentication, product catalog, shopping cart, and order management.
+[View Repository](https://github.com/your-username/project-link)
+
+### Task Management Application
+Comprehensive task tracker developed with .NET backend and React frontend. Features task assignments, progress tracking, and deadline notifications.
+[View Repository](https://github.com/your-username/project-link)
+
+### Personal Portfolio Website
+Responsive portfolio built with Angular, showcasing projects and skills with interactive elements and smooth animations.
+[View Repository](https://github.com/your-username/project-link)
+
+## 🌱 Currently Learning
+
+- Advanced .NET Core patterns and practices
+- Angular performance optimization
+- React ecosystem and state management
+- Cloud deployment with Azure
+- Microservices architecture
+
+## 🌍 Connect with Me
+
+<div>
+  <a href="https://www.linkedin.com/in/nehad-ashraf/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-## 🌍 **Connect with Me**
-Feel free to reach out and connect!  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehad-ashraf/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
-
+⚡ **Fun fact:** I love solving coding challenges and contributing to open-source projects in my free time!
