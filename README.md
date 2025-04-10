@@ -51,36 +51,6 @@
   <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" alt="OOP">
   <img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="MVC">
 </div>
-
-## 📊 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
-</div>
-
-## 🔥 Featured Projects
-
-### E-Commerce Platform
-Full-featured online store built with ASP.NET Core backend and Angular frontend. Includes user authentication, product catalog, shopping cart, and order management.
-[View Repository](https://github.com/your-username/project-link)
-
-### Task Management Application
-Comprehensive task tracker developed with .NET backend and React frontend. Features task assignments, progress tracking, and deadline notifications.
-[View Repository](https://github.com/your-username/project-link)
-
-### Personal Portfolio Website
-Responsive portfolio built with Angular, showcasing projects and skills with interactive elements and smooth animations.
-[View Repository](https://github.com/your-username/project-link)
-
-## 🌱 Currently Learning
-
-- Advanced .NET Core patterns and practices
-- Angular performance optimization
-- React ecosystem and state management
-- Cloud deployment with Azure
-- Microservices architecture
-
 ## 🌍 Connect with Me
 
 <div>
